@@ -1,4 +1,4 @@
-const = require("fs");
+const = fs require("fs");
 const prompt = require("prompt");
 const login = require("facebook-chat-api");
 const chalk = require("chalk");
